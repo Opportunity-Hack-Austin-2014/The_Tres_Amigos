@@ -1,0 +1,8 @@
+Login.txt
+
+Steps for accessing all source files:
+1) Navigate browser to Google Login: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdrive.google.com%2F%3Ftab%3Dwo%26urp%3Dhttps%3A%2F%2Fwww.google.com%2F%23&followup=https%3A%2F%2Fdrive.google.com%2F%3Ftab%3Dwo%26urp%3Dhttps%3A%2F%2Fwww.google.com%2F&ltmpl=drive&emr=1
+2) Login username = hohprojecttx@gmail.com
+   Login password = age12121
+3) If using for first time, please change all relevant information to new user's information
+4) You can find all of the forms, spreadsheets, and docs in your Google Drive
